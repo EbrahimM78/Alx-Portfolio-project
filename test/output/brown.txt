@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: brown
+RGBA (Red, Green, Blue, Alpha) Color Code: (165, 42, 42, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: brown
+HEX (Hexadecimal) Color Code: #a52a2a
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: brown
+HSL (Hue, Saturation, Lightness) Color Code: (0.0, 0.5942028985507247, 0.40588235294117647)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: brown
+HSV (Hue, Saturation, Value) Color Code: (0.0, 0.7454545454545455, 0.6470588235294118)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: brown
+CMY (Cyan, Magenta, Yellow) Color Code: (0.3529411764705882, 0.8352941176470589, 0.8352941176470589)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: brown
+YIQ (Luminance, I, Q) Color Code: (0.30941176470588233, 0.28892941176470593, 0.10274117647058825)

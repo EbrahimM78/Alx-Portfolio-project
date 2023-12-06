@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: black
+RGBA (Red, Green, Blue, Alpha) Color Code: (0, 0, 0, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: black
+HEX (Hexadecimal) Color Code: #000000
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: black
+HSL (Hue, Saturation, Lightness) Color Code: (0.0, 0.0, 0.0)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: black
+HSV (Hue, Saturation, Value) Color Code: (0.0, 0.0, 0.0)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: black
+CMY (Cyan, Magenta, Yellow) Color Code: (1.0, 1.0, 1.0)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: black
+YIQ (Luminance, I, Q) Color Code: (0.0, 0.0, 0.0)

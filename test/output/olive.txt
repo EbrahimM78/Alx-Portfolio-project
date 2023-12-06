@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: olive
+RGBA (Red, Green, Blue, Alpha) Color Code: (128, 128, 0, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: olive
+HEX (Hexadecimal) Color Code: #808000
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: olive
+HSL (Hue, Saturation, Lightness) Color Code: (0.16666666666666666, 1.0, 0.25098039215686274)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: olive
+HSV (Hue, Saturation, Value) Color Code: (0.16666666666666666, 1.0, 0.5019607843137255)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: olive
+CMY (Cyan, Magenta, Yellow) Color Code: (0.4980392156862745, 0.4980392156862745, 1.0)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: olive
+YIQ (Luminance, I, Q) Color Code: (0.44674509803921564, 0.16148078431372553, -0.15666196078431366)

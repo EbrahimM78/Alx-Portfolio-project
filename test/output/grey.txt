@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: grey
+RGBA (Red, Green, Blue, Alpha) Color Code: (128, 128, 128, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: grey
+HEX (Hexadecimal) Color Code: #808080
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: grey
+HSL (Hue, Saturation, Lightness) Color Code: (0.0, 0.0, 0.5019607843137255)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: grey
+HSV (Hue, Saturation, Value) Color Code: (0.0, 0.0, 0.5019607843137255)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: grey
+CMY (Cyan, Magenta, Yellow) Color Code: (0.4980392156862745, 0.4980392156862745, 0.4980392156862745)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: grey
+YIQ (Luminance, I, Q) Color Code: (0.5019607843137255, 0.0, 0.0)

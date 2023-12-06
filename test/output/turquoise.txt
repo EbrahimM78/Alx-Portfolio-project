@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: turquoise
+RGBA (Red, Green, Blue, Alpha) Color Code: (64, 224, 208, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: turquoise
+HEX (Hexadecimal) Color Code: #40e0d0
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: turquoise
+HSL (Hue, Saturation, Lightness) Color Code: (0.48333333333333334, 0.7207207207207207, 0.5647058823529412)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: turquoise
+HSV (Hue, Saturation, Value) Color Code: (0.48333333333333334, 0.7142857142857143, 0.8784313725490196)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: turquoise
+CMY (Cyan, Magenta, Yellow) Color Code: (0.7490196078431373, 0.1215686274509804, 0.1843137254901961)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: turquoise
+YIQ (Luminance, I, Q) Color Code: (0.6832941176470588, -0.3556580392156863, -0.15322980392156862)

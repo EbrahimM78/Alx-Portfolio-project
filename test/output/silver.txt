@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: silver
+RGBA (Red, Green, Blue, Alpha) Color Code: (192, 192, 192, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: silver
+HEX (Hexadecimal) Color Code: #c0c0c0
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: silver
+HSL (Hue, Saturation, Lightness) Color Code: (0.0, 0.0, 0.7529411764705882)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: silver
+HSV (Hue, Saturation, Value) Color Code: (0.0, 0.0, 0.7529411764705882)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: silver
+CMY (Cyan, Magenta, Yellow) Color Code: (0.24705882352941178, 0.24705882352941178, 0.24705882352941178)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: silver
+YIQ (Luminance, I, Q) Color Code: (0.7529411764705882, 0.0, 0.0)

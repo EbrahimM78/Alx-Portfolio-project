@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: purple
+RGBA (Red, Green, Blue, Alpha) Color Code: (128, 0, 128, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: purple
+HEX (Hexadecimal) Color Code: #800080
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: purple
+HSL (Hue, Saturation, Lightness) Color Code: (0.8333333333333334, 1.0, 0.25098039215686274)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: purple
+HSV (Hue, Saturation, Value) Color Code: (0.8333333333333334, 1.0, 0.5019607843137255)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: purple
+CMY (Cyan, Magenta, Yellow) Color Code: (0.4980392156862745, 1.0, 0.4980392156862745)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: purple
+YIQ (Luminance, I, Q) Color Code: (0.20580392156862742, 0.13919372549019607, 0.2635796078431373)

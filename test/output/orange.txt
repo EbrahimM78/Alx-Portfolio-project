@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: orange
+RGBA (Red, Green, Blue, Alpha) Color Code: (255, 165, 0, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: orange
+HEX (Hexadecimal) Color Code: #ffa500
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: orange
+HSL (Hue, Saturation, Lightness) Color Code: (0.10784313725490197, 1.0, 0.5)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: orange
+HSV (Hue, Saturation, Value) Color Code: (0.10784313725490197, 1.0, 1.0)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: orange
+CMY (Cyan, Magenta, Yellow) Color Code: (0.0, 0.3529411764705882, 1.0)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: orange
+YIQ (Luminance, I, Q) Color Code: (0.6817647058823529, 0.41957058823529414, -0.12677058823529408)

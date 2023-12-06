@@ -18,6 +18,8 @@ This program is designed to provide users with the corresponding values for a gi
 ### Prerequisites
 
 - Python 3.x installed on your system.
+- pip install webcolors
+- pip install colorspacious
 
 ### Installation
 

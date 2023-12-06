@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: yellow
+RGBA (Red, Green, Blue, Alpha) Color Code: (255, 255, 0, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: yellow
+HEX (Hexadecimal) Color Code: #ffff00
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: yellow
+HSL (Hue, Saturation, Lightness) Color Code: (0.16666666666666666, 1.0, 0.5)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: yellow
+HSV (Hue, Saturation, Value) Color Code: (0.16666666666666666, 1.0, 1.0)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: yellow
+CMY (Cyan, Magenta, Yellow) Color Code: (0.0, 0.0, 1.0)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: yellow
+YIQ (Luminance, I, Q) Color Code: (0.8899999999999999, 0.32170000000000004, -0.3120999999999999)

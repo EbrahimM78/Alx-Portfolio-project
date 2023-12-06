@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: gold
+RGBA (Red, Green, Blue, Alpha) Color Code: (255, 215, 0, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: gold
+HEX (Hexadecimal) Color Code: #ffd700
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: gold
+HSL (Hue, Saturation, Lightness) Color Code: (0.14052287581699346, 1.0, 0.5)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: gold
+HSV (Hue, Saturation, Value) Color Code: (0.14052287581699346, 1.0, 1.0)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: gold
+CMY (Cyan, Magenta, Yellow) Color Code: (0.0, 0.1568627450980392, 1.0)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: gold
+YIQ (Luminance, I, Q) Color Code: (0.7974509803921568, 0.36519803921568633, -0.2297313725490195)

@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: pink
+RGBA (Red, Green, Blue, Alpha) Color Code: (255, 192, 203, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: pink
+HEX (Hexadecimal) Color Code: #ffc0cb
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: pink
+HSL (Hue, Saturation, Lightness) Color Code: (0.9708994708994709, 1.0, 0.8764705882352941)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: pink
+HSV (Hue, Saturation, Value) Color Code: (0.9708994708994709, 0.24705882352941178, 1.0)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: pink
+CMY (Cyan, Magenta, Yellow) Color Code: (0.0, 0.24705882352941178, 0.20392156862745103)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: pink
+YIQ (Luminance, I, Q) Color Code: (0.8318039215686274, 0.1341109803921569, 0.06608666666666671)

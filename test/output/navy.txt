@@ -1,0 +1,24 @@
+
+Color Format: RGBA (Red, Green, Blue, Alpha)
+Color: navy
+RGBA (Red, Green, Blue, Alpha) Color Code: (0, 0, 128, 255)
+
+Color Format: HEX (Hexadecimal)
+Color: navy
+HEX (Hexadecimal) Color Code: #000080
+
+Color Format: HSL (Hue, Saturation, Lightness)
+Color: navy
+HSL (Hue, Saturation, Lightness) Color Code: (0.6666666666666666, 1.0, 0.25098039215686274)
+
+Color Format: HSV (Hue, Saturation, Value)
+Color: navy
+HSV (Hue, Saturation, Value) Color Code: (0.6666666666666666, 1.0, 0.5019607843137255)
+
+Color Format: CMY (Cyan, Magenta, Yellow)
+Color: navy
+CMY (Cyan, Magenta, Yellow) Color Code: (1.0, 1.0, 0.4980392156862745)
+
+Color Format: YIQ (Luminance, I, Q)
+Color: navy
+YIQ (Luminance, I, Q) Color Code: (0.055215686274509804, -0.1614807843137255, 0.15666196078431371)

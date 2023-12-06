@@ -4,6 +4,8 @@ import sys
 import os
 import webcolors
 import colorsys
+import colorspacious as cs
+from colorspacious import cvd
 
 def color_to_rgb(color_name):
     try:
@@ -37,6 +39,19 @@ def rgb_to_yiq(rgb):
     yiq = colorsys.rgb_to_yiq(rgb[0] / 255.0, rgb[1] / 255.0, rgb[2] / 255.0)
     return yiq
 
+def rgb_to_yuv(rgb):
+    r, g, b = rgb
+    y = 0.299 * r + 0.587 * g + 0.114 * b
+    u = (b - y) * 0.565
+    v = (r - y) * 0.713
+    return y, u, v
+
+def rgb_to_hunter_lab(rgb):
+    # Using cvd module from colorspacious for Hunter Lab conversion
+    hunter_lab = cvd.conversion({"name": "sRGB"}, {"name": "CIELab"}, {"name": "CIE 2006"})
+    hunter_lab_values = cs.cspace_convert(rgb, start={"name": "sRGB"}, end=hunter_lab)
+    return hunter_lab_values[0], hunter_lab_values[1], hunter_lab_values[2]
+
 def write_color_format(file, title, color_name, code):
     file.write(f"\nColor Format: {title}\n")
     file.write(f"Color: {color_name}\n")
@@ -52,6 +67,8 @@ def print_and_write_all_formats(file, color_name, rgb):
     hsv = rgb_to_hsv(rgb)
     cmy = rgb_to_cmy(rgb)
     yiq = rgb_to_yiq(rgb)
+    yuv = rgb_to_yuv(rgb)
+    hunter_lab = rgb_to_hunter_lab(rgb)
 
     # Print to console
     write_color_format(sys.stdout, "RGBA (Red, Green, Blue, Alpha)", color_name, rgba)
@@ -60,6 +77,8 @@ def print_and_write_all_formats(file, color_name, rgb):
     write_color_format(sys.stdout, "HSV (Hue, Saturation, Value)", color_name, hsv)
     write_color_format(sys.stdout, "CMY (Cyan, Magenta, Yellow)", color_name, cmy)
     write_color_format(sys.stdout, "YIQ (Luminance, I, Q)", color_name, yiq)
+    write_color_format(sys.stdout, "YUV (Y, U, V)", color_name, yuv)
+    write_color_format(sys.stdout, "Hunter Lab", color_name, hunter_lab)
 
     # Write to file
     write_color_format(file, "RGBA (Red, Green, Blue, Alpha)", color_name, rgba)
@@ -68,6 +87,8 @@ def print_and_write_all_formats(file, color_name, rgb):
     write_color_format(file, "HSV (Hue, Saturation, Value)", color_name, hsv)
     write_color_format(file, "CMY (Cyan, Magenta, Yellow)", color_name, cmy)
     write_color_format(file, "YIQ (Luminance, I, Q)", color_name, yiq)
+    write_color_format(file, "YUV (Y, U, V)", color_name, yuv)
+    write_color_format(file, "Hunter Lab", color_name, hunter_lab)
 
 def main():
     # Check if a color name is provided as a command-line argument
