@@ -20,14 +20,14 @@ This program is designed to provide users with the corresponding values for a gi
 
 ### Installation
 
-   ```bash
-      git clone https://github.com/EbrahimM78/Alx-Portfolio-project.git
+```` git clone https://github.com/EbrahimM78/Alx-Portfolio-project.git ````
+
 - pip install webcolors
 - pip install colorspacious
 
 ### Useage
 
-```bash ./color_converter.py {color}
+```bash ./color_converter.py {color} ```
 
 ### Authors
 
