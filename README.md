@@ -1,8 +1,7 @@
-## Alx Portfolio Project
-****
-
 # Color Conversion Program
+-it's simply colors
 
+****
 ## Overview
 
 This program is designed to provide users with the corresponding values for a given color in various color models, including RGB, CMYK, HSL, HSV, and Hexadecimal. Whether you're a developer, designer, or anyone working with colors, this tool simplifies the process of converting color representations.
@@ -18,10 +17,18 @@ This program is designed to provide users with the corresponding values for a gi
 ### Prerequisites
 
 - Python 3.x installed on your system.
-- pip install webcolors
-- pip install colorspacious
 
 ### Installation
 
    ```bash
       git clone https://github.com/EbrahimM78/Alx-Portfolio-project.git
+- pip install webcolors
+- pip install colorspacious
+
+### Useage
+
+```bash ./color_converter.py {color}
+
+### Authors
+
+Ebrahim Mangera [https://github.com/EbrahimM78]
