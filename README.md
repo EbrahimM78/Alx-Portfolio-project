@@ -27,7 +27,7 @@ This program is designed to provide users with the corresponding values for a gi
 
 ### Useage
 
-```bash ./color_converter.py {color} ```
+```$ ./color_converter.py {color} ```
 
 ### Authors
 
