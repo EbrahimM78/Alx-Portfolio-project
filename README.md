@@ -25,10 +25,10 @@ This program is designed to provide users with the corresponding values for a gi
 - pip install webcolors
 - pip install colorspacious
 
-### Useage
+### Usage
 
 ```$ ./color_converter.py {color} ```
 
 ### Authors
 
-Ebrahim Mangera [https://github.com/EbrahimM78]
+[Ebrahim Mangera] (https://github.com/EbrahimM78)
